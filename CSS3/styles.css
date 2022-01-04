@@ -1,11 +1,17 @@
 
-body
-{background-color: darkgreen;
- font: 30px arial, sans-serif;
+div
+{
+ width: 500px;
+ height:2300px;
+ border: 1px solid red;
+ background-image: url("MKFAZAL.jpg");
+ background-repeat: no-repeat;
+ background: position 94px;;
+ background-attachment:fixed;
+ background-color: gold;
 }
 h1{
-    color:whitesmoke;
-}
-a:visited{
-    color: darkorange;
+    color:black;
+    font-family: 'Monoton', 'cursive';
+    font-size: 100px;
 }
